@@ -1,0 +1,13 @@
+Project : 
+  ☐ stuff
+
+Stuff to implement : 
+  ☐ after a fight, generate a new event only if the player loose the fight.
+  ☐ https://codepen.io/gand988/pen/zYYNdVR?editors=0012
+    work on the check if, enemey or player, and remove from the temp var, 
+    I put a value, 0 or 1, maybe can be useful for the check.
+
+
+
+    hp_player
+    hp_enemies

@@ -1,0 +1,27 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0; }
+
+.modal {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7); }
+
+.modal div {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  margin: 5px;
+  background-color: red; }
+
+.modal .cls_black {
+  background-color: black; }
+
+.modal .cls_done {
+  background-color: greenyellow; }
+
+/*# sourceMappingURL=main.css.map */
